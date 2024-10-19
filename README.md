@@ -11,6 +11,6 @@ The hockey-Ground website is a static and visually captivating platform dedicate
 
 ## 🔗 Demo
 
-Live-Link: https://hockey-ground.netlify.app/
+Live-Link: https://hockey-play-ground.vercel.app/
 
-![Hockey-Ground](https://github.com/fokhrul2029/Hockey-Ground/assets/105439053/ac4e56d0-33c3-49f8-837c-2f298b5b0e10)
+ 
